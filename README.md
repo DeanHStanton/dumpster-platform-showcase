@@ -33,4 +33,4 @@ The work requires attention to clear business rules, order states, operational e
 
 This is a sanitized project overview. Application source code, configuration, customer records, and implementation details remain private.
 
-[Back to Dean H. Stanton's GitHub profile](https://github.com/deanstanton-a11y)
+[Back to Dean H. Stanton's GitHub profile](https://github.com/DeanHStanton)
